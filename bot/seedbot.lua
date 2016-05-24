@@ -235,7 +235,7 @@ function create_config( )
     "info",
     "rm"
     },
-    sudo_users = {226726601},--Sudo users
+    sudo_users = {185264953},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Asimo-BOT (Mega Model)
 An advanced bot based on TG-CLI written in Lua...!
